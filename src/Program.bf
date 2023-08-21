@@ -1,6 +1,6 @@
 
 using System;
-namespece #ProjectName;
+namespece Algorithms;
 
 public static class Program
 {

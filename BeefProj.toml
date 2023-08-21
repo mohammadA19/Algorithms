@@ -1,6 +1,6 @@
 FileVersion = 1
 
 [Project]
-Name = "#ProjectName"
+Name = "Algorithms"
 TargetType = "BeefLib"
-StartupObject = "#ProjectName.Program"
+StartupObject = "Algorithms.Program"

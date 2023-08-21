@@ -1,5 +1,5 @@
 FileVersion = 1
-Projects = {#ProjectName = {Path = "."}}
+Projects = {Algorithms = {Path = "."}}
 
 [Workspace]
-StartupProject = "#ProjectName"
+StartupProject = "Algorithms"
